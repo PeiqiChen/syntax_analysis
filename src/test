@@ -1,0 +1,25 @@
+#define MAX 100;
+
+/*a func
+	return sum*/
+int sum( int n){
+	
+	
+}
+
+
+void main(){
+   int i=2;
+   int j=4;
+   int result=0;
+   while(i <=j){
+       result=result+j;
+
+i++; }
+	a=b;
+	for(int a=0;a<9;a++){
+	print("ff");
+	}
+
+    return result;
+}

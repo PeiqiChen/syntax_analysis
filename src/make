@@ -1,0 +1,4 @@
+#!/bin/bash
+lex lexya_a.l
+bison -d lexya_a.y
+cc -o parser   lexya_a.tab.c  -ll

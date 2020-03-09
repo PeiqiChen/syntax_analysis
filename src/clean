@@ -1,0 +1,2 @@
+#!/bin/bash
+rm lex.yy.c lexya_a.tab.c lexya_a.tab.h parser out stderr
